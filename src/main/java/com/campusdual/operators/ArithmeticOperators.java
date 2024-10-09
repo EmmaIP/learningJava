@@ -1,6 +1,6 @@
 package com.campusdual.operators;
 
-public class AritmeticOperators {
+public class ArithmeticOperators {
     public static void main(String[] args) {
         int value = 5;             //5
         value = value + 3;         //8
