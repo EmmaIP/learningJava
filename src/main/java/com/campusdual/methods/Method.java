@@ -31,11 +31,19 @@ public class Method {
         System.out.println("NOT false:" + (!false));
     }
 
+    public static String myCustonMessage(String custonName) {
+        return "Hi " + custonName +"! This is your custon message";
+    }
+
     public static void main(String[] args) {
         logicOperators();
         int arithResult = arithmeticOperators();
         System.out.println("Arithmetic result: " + arithResult);
         System.out.println("Arithmetic result: " + arithmeticOperators());
+        String name = "Emma";
+        String message = myCustonMessage(name);
+        System.out.println(myCustonMessage(name));
+        System.out.println(message);
     }
 }
 
