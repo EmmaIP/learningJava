@@ -67,8 +67,6 @@ public class CarBooking implements IBooking{   //esta clase implementa la interf
     @Override
     public void getTicketDetail() {   //ticket de reserva con la fecha
 
-
-
         if(this.booked) {
             System.out.println(this.licensePlate + " car booked for " + this.sdf.format(this.bookDate));
         }
