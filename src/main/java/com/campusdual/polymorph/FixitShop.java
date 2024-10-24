@@ -26,6 +26,7 @@ public class FixitShop {
         tablet2.charge();
         laptop2.charge();
 
+
         Device smart3 = new Smartphone("YUJI", "·34");
         IChargeable tablet3 = new Tablet("Weher", "Ert7");
         Device laptop3 = new Laptop("Korel", "W634");

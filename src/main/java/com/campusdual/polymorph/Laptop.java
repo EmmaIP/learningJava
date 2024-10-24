@@ -16,6 +16,7 @@ public class Laptop extends Device implements IChargeable{
     }
 
     public void behaviourOnCloseScreen(){
+
         System.out.println("Close screen, preventing power-saving mode");
     }
 }
