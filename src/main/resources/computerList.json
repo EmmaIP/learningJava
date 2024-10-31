@@ -1,0 +1,36 @@
+{
+  "components": [
+    {
+      "quantity": 2,
+      "text": "Graphic Card"
+    },
+    {
+      "quantity": 1,
+      "text": "CPU"
+    },
+    {
+      "quantity": 3,
+      "text": "Fan"
+    },
+    {
+      "quantity": 1,
+      "text": "Mother board"
+    },
+    {
+      "quantity": 2,
+      "text": "RAM"
+    },
+    {
+      "quantity": 1,
+      "text": "SSD"
+    },
+    {
+      "quantity": 1,
+      "text": "Power supply"
+    },
+    {
+      "quantity": 1,
+      "text": "Computer case"
+    }
+  ]
+}
